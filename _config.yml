@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hailing Luo"
 title_separator          : "-"
 name                     : &name "Hailing Luo"
-description              : &description "Master at Xiamen University"
+description              : &description "M.S. in Xiamen University"
 url                      : https://hailingluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hailingluo.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Hailing Luo"
   avatar           : "profile.png"
-  bio              : "Master at Xiamen University"
+  bio              : "M.S. in Xiamen University"
   location         : "Xiamen, China"
   employer         : 
   googlescholar    : 
