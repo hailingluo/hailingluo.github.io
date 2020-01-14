@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Conceptual space based model fitting for multi-structure data"
 collection: publications
 permalink: /publications/Neurocomputing
 venue: "Neurocomputing"
