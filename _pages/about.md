@@ -7,7 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is Dr. Test Account's home on the web!
-
-Lorem ipsum.
+Hello, I am currently a master student in the School of Information Science and Engineering at Xiamen University, China. My main research interests are robust model fitting and image registration.
